@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-Hi I am Dimitra Giantsidi!!!
 --- 
-hi I am dimitra!!!!!!!!!!!!
+
+
+I am a PhD student at University of Edinburgh under the supervision of .. .
