@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 --- 
 
+My name is Dimitra Giantsidi and I am a PhD student at the University of Edinburgh.
 
-I am a PhD student at University of Edinburgh under the supervision of .. .

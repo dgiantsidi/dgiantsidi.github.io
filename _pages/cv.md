@@ -11,23 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical and Computer Engineering, National Technical University of Athens, Greece, 2018
+* M.S. in Computer Science, School of Informatics, University of Edinburgh, UK, 2019
+* Ph.D in Computer Systems, School of Informatics, University of Edinburgh, UK, 2019 (expected)
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
+* June 2017 - July 2018: Software and Systems Engineer
+  * Intracom Telecom, Athens, Greece
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+
+  Skills
 ======
 * Skill 1
 * Skill 2
