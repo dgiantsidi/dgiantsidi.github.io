@@ -14,7 +14,7 @@ Education
 ======
 * MEng. in Electrical and Computer Engineering, National Technical University of Athens, Greece, 2018
 * MSc. in Computer Science, School of Informatics, University of Edinburgh, UK, 2019
-* PhD in Computer Systems, School of Informatics, University of Edinburgh, UK, 2019 (expected)
+* PhD in Computer Systems, School of Informatics, University of Edinburgh, UK, (present)
 
 Work experience
 ======
