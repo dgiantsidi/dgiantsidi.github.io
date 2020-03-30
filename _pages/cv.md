@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -24,7 +24,9 @@ Work experience
 
 Publications
 ======
-* DICER: Diligent Cache Partitioning for Efficient Workload Consolidation
+* Konstantinos Nikas, Nikela Papadopoulou, Dimitra Giantsidi, Vasileios Karakostas, Georgios I Goumas, Nectarios Koziris
+
+  DICER: Diligent Cache Partitioning for Efficient Workload Consolidation
 
 Teaching (Marker/Teaching Assistance)
 ======
