@@ -24,9 +24,9 @@ Work experience
 
 Publications
 ======
-* Konstantinos Nikas, Nikela Papadopoulou, Dimitra Giantsidi, Vasileios Karakostas, Georgios I Goumas, Nectarios Koziris
+Konstantinos Nikas, Nikela Papadopoulou, Dimitra Giantsidi, Vasileios Karakostas, Georgios I Goumas, Nectarios Koziris. 2020.
+*DICER: Diligent Cache Partitioning for Efficient Workload Consolidation.* ICCP '19.
 
-  DICER: Diligent Cache Partitioning for Efficient Workload Consolidation
 
 Teaching (Marker/Teaching Assistance)
 ======
