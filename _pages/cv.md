@@ -25,6 +25,7 @@ Work experience
 Publications
 ======
 * DICER: Diligent Cache Partitioning for Efficient Workload Consolidation
+
 Teaching (Marker/Teaching Assistance)
 ======
 * Introduction to Programming, NTUA, Greece
