@@ -24,10 +24,7 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* DICER: Diligent Cache Partitioning for Efficient Workload Consolidation
 Teaching (Marker/Teaching Assistance)
 ======
 * Introduction to Programming, NTUA, Greece
