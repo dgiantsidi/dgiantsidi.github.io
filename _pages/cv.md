@@ -39,5 +39,7 @@ Teaching (Marker/Teaching Assistance)
 ======
 * Introduction to Programming, NTUA, Greece
 * Programming Techniques, NTUA, Greece
-* Extreme Computing, University of Edinburgh, UK
-* Operating Systems, University of Edinburgh, UK
+* Extreme Computing, University of Edinburgh, UK, 2019/20
+* Operating Systems, University of Edinburgh, UK, 2019/20, 2020/21
+* Advanced Systems Programming in C/Rust, TUM, Germany, 2020/21
+* Computer Systems Lab, TUM, Germany, 2020/21
