@@ -18,6 +18,7 @@ Education
 
 Work experience
 ======
+* Sept 2021 - present: Research Intern at Confidential Computing Group, Microsoft Research Cambridge, UK
 * June 2017 - July 2018: Software and Systems Engineer, Intracom Telecom, Athens, Greece
   * Post-deployment performance and energy optimization of NFV services running on private Data Centers.
   * Intel Technologies: DPDK, RDT, NFV and Network Service Benchmarking. 
