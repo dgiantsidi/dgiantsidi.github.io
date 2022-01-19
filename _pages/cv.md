@@ -36,7 +36,6 @@ Maurice Bailleu, Dimitra Giantsidi, Vasilis Gavrielatos, Le Quoc Do, Vijay Nagar
 Konstantinos Nikas, Nikela Papadopoulou, Dimitra Giantsidi, Vasileios Karakostas, Georgios I Goumas, Nectarios Koziris.
 
 
-a
 Service
 ======
 <strong>Web chair</strong>: EuroSys 2021.\\
