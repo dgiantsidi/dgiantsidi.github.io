@@ -36,11 +36,11 @@ Maurice Bailleu, Dimitra Giantsidi, Vasilis Gavrielatos, Le Quoc Do, Vijay Nagar
 Konstantinos Nikas, Nikela Papadopoulou, Dimitra Giantsidi, Vasileios Karakostas, Georgios I Goumas, Nectarios Koziris.
 
 
-
+a
 Service
 ======
-<strong>*Web chair: EuroSys 2021.</strong>\\
-<strong>*PC: WWW 2022.</strong>\\
+<strong>Web chair</strong>: EuroSys 2021.\\
+<strong>PC</strong>: WWW 2022.\\
 
 Teaching (Marker/Teaching Assistance)
 ======
