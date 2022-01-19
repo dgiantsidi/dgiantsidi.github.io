@@ -39,7 +39,7 @@ Konstantinos Nikas, Nikela Papadopoulou, Dimitra Giantsidi, Vasileios Karakostas
 Service
 ======
 <strong>Web chair</strong>: EuroSys 2021.\\
-<strong>PC</strong>: WWW 2022.\\
+<strong>PC</strong>: WWW 2022.
 
 Teaching (Marker/Teaching Assistance)
 ======
