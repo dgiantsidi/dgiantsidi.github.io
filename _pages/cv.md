@@ -50,7 +50,8 @@ Teaching
 * Advanced Systems Programming in C/Rust, TUM, Germany, 2020/21
 * Computer Systems Lab, TUM, Germany, 2020/21
 * Advanced Distributed Systems Seminar, TUM, Germany, 2021/22
-Students thesis supervision
+
+Thesis supervision (students)
 ======
 * Philip Sändig (BSc): Fast and Secure Networking for Remote Direct Memory Access on Persistent Memory Leveraging Trusted Execution Environments, TUM, Germany, 2020/21
 * Vincent Picking (BSc): Shared Log with Persistent Memory and eRPC, TUM, Germany, 2020/21
