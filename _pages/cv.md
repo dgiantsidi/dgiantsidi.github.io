@@ -41,7 +41,7 @@ Service
 <strong>Web chair</strong>: EuroSys 2021.\\
 <strong>PC</strong>: WWW 2022.
 
-Teaching (Marker/Teaching Assistance)
+Teaching
 ======
 * Introduction to Programming, NTUA, Greece
 * Programming Techniques, NTUA, Greece
@@ -50,3 +50,7 @@ Teaching (Marker/Teaching Assistance)
 * Advanced Systems Programming in C/Rust, TUM, Germany, 2020/21
 * Computer Systems Lab, TUM, Germany, 2020/21
 * Advanced Distributed Systems Seminar, TUM, Germany, 2021/22
+Students thesis supervision
+======
+* Philip Sändig (BSc): Fast and Secure Networking for Remote Direct Memory Access on Persistent Memory Leveraging Trusted Execution Environments, TUM, Germany, 2020/21
+* Vincent Picking (BSc): Shared Log with Persistent Memory and eRPC, TUM, Germany, 2020/21
