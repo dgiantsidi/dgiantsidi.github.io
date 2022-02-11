@@ -11,9 +11,9 @@ redirect_from:
 
 Working experience
 ======
-* <strong>Sept 2021 - Dec 2021: Research Intern</strong>\\
-    Confidential Computing Group, Microsoft Research Cambridge, UK
-* <strong>June 2017 - July 2018: Software and Systems Engineer</strong>\\
+* <strong>*Sept 2021 - Dec 2021: Research Intern at Confidential Computing Group*</strong>\\
+    Microsoft Research Cambridge, UK
+* <strong>*June 2017 - July 2018: Software and Systems Engineer*</strong>\\
     Intracom Telecom, Athens, Greece
 
 Service
@@ -34,7 +34,7 @@ Teaching experience
 Thesis supervision (students)
 ======
 * [Fast and Secure Networking for Remote Direct Memory Access on Persistent Memory Leveraging Trusted Execution Environments](https://dse.in.tum.de/wp-content/uploads/2022/01/BT_SaendigPhilip.pdf)\\
-    <strong>author: Philip Sändig (BSc)</strong>, TUM, Germany, 2020/21
+    author: Philip Sändig (BSc), TUM, Germany, 2020/21
 
 * [Shared Log with Persistent Memory and eRPC](https://dse.in.tum.de/wp-content/uploads/2022/01/BA_Vincent-Picking.pdf)\\
-    <strong>author: Vincent Picking (BSc)</strong>, TUM, Germany, 2020/21
+    author: Vincent Picking (BSc), TUM, Germany, 2020/21
