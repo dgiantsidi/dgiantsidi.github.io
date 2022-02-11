@@ -34,7 +34,7 @@ Teaching experience
 Thesis supervision (students)
 ======
 * [*Fast and Secure Networking for Remote Direct Memory Access on Persistent Memory Leveraging Trusted Execution Environments*](https://dse.in.tum.de/wp-content/uploads/2022/01/BT_SaendigPhilip.pdf)\\
-    author: Philip Sändig (BSc), TUM, Germany, 2020/21
+    Philip Sändig (BSc), TUM, Germany, 2020/21
 
 * [*Shared Log with Persistent Memory and eRPC*](https://dse.in.tum.de/wp-content/uploads/2022/01/BA_Vincent-Picking.pdf)\\
-    author: Vincent Picking (BSc), TUM, Germany, 2020/21
+    Vincent Picking (BSc), TUM, Germany, 2020/21
