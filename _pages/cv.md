@@ -20,12 +20,6 @@ Work experience
 ======
 * Sept 2021 - Dec 2021: Research Intern at Confidential Computing Group, Microsoft Research Cambridge, UK
 * June 2017 - July 2018: Software and Systems Engineer, Intracom Telecom, Athens, Greece
-  * Post-deployment performance and energy optimization of NFV services running on private Data Centers.
-  * Intel Technologies: DPDK, RDT, NFV and Network Service Benchmarking. 
-  * Kubernetes, Docker, Qemu/KVM, Libvirt VMs.
-  * collectd-plugin extension.
-  * Test driven web development (Django Rest Framework).
-  * C/C++, Golang, Python, shell.
 
 Publications
 ======
