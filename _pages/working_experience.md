@@ -11,8 +11,8 @@ redirect_from:
 
 Working experience
 ======
-* {\bf{Sept 2021 - Dec 2021: Research Intern at Confidential Computing Group}}, Microsoft Research Cambridge, UK
-* {\bf{June 2017 - July 2018: Software and Systems Engineer, Intracom Telecom}}, Athens, Greece
+* <strong>Sept 2021 - Dec 2021: Research Intern at Confidential Computing Group</strong>, Microsoft Research Cambridge, UK
+* <strong>June 2017 - July 2018: Software and Systems Engineer, Intracom Telecom</strong>, Athens, Greece
   * Post-deployment performance and energy optimization of NFV services running on private Data Centers.
   * Intel Technologies: DPDK, RDT, NFV and Network Service Benchmarking. 
   * Kubernetes, Docker, Qemu/KVM, Libvirt VMs.
@@ -21,10 +21,11 @@ Working experience
   * C/C++, Golang, Python, shell.
 
 
+
 Service
 ======
-<strong>Web chair</strong>: [EuroSys 2021]().\\
-<strong>PC</strong>: [WWW 2022]().
+<strong>Web chair</strong>: [EuroSys 2021](https://2021.eurosys.org/).\\
+<strong>PC</strong>: [WWW 2022](https://www2022.thewebconf.org/).
 
 
 
@@ -40,5 +41,7 @@ Teaching experience
 
 Thesis supervision (students)
 ======
-* Philip Sändig (BSc): [Fast and Secure Networking for Remote Direct Memory Access on Persistent Memory Leveraging Trusted Execution Environments](https://dse.in.tum.de/wp-content/uploads/2022/01/BT_SaendigPhilip.pdf), TUM, Germany, 2020/21
-* Vincent Picking (BSc): [Shared Log with Persistent Memory and eRPC](https://dse.in.tum.de/wp-content/uploads/2022/01/BA_Vincent-Picking.pdf), TUM, Germany, 2020/21
+* [Fast and Secure Networking for Remote Direct Memory Access on Persistent Memory Leveraging Trusted Execution Environments](https://dse.in.tum.de/wp-content/uploads/2022/01/BT_SaendigPhilip.pdf)
+<strong>author:</strong> Philip Sändig (BSc), TUM, Germany, 2020/21
+* [Shared Log with Persistent Memory and eRPC](https://dse.in.tum.de/wp-content/uploads/2022/01/BA_Vincent-Picking.pdf)
+<strong>author:</strong> Vincent Picking (BSc), TUM, Germany, 2020/21
