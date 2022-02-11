@@ -4,9 +4,10 @@ title: ""
 permalink: /working_experience/
 author_profile: true
 redirect_from:
-  - /resume
-      ---
+- /resume
+---
 
+{% include base_path %}
 
 Working experience
 ======
@@ -37,7 +38,7 @@ Teaching experience
 * Computer Systems Lab, TUM, Germany, 2020/21
 * Advanced Distributed Systems Seminar, TUM, Germany, 2021/22
 
-    Thesis supervision (students)
-    ======
+Thesis supervision (students)
+======
 * Philip Sändig (BSc): Fast and Secure Networking for Remote Direct Memory Access on Persistent Memory Leveraging Trusted Execution Environments, TUM, Germany, 2020/21
 * Vincent Picking (BSc): Shared Log with Persistent Memory and eRPC, TUM, Germany, 2020/21
