@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Working experience
 ======
 * <strong>*Sept 2021 - Dec 2021: Research Intern at Confidential Computing Group*</strong>\\
@@ -16,10 +17,11 @@ Working experience
 * <strong>*June 2017 - July 2018: Software and Systems Engineer*</strong>\\
     Intracom Telecom, Athens, Greece
 
+
 Service
 ======
-[EuroSys 2021](https://2021.eurosys.org/): Web chair\\
-[WWW 2022](https://www2022.thewebconf.org/): PC
+[<strong>EuroSys 2021</strong>](https://2021.eurosys.org/): Web chair\\
+[<strong>WWW 2022</strong>](https://www2022.thewebconf.org/): PC
 
 
 
@@ -30,6 +32,8 @@ Teaching experience
 * Computer Systems Lab and Advanced Systems Programming in C/Rust courses, TUM, Germany, 2020/21
 * Extreme Computing, The University of Edinburgh, UK, 2019/20
 * Introduction to Programming and Programming Techniques courses, NTUA, Greece
+
+
 
 Thesis supervision (students)
 ======
