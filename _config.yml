@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dimitra Giantsidi"
 title_separator          : "-"
 name                     : &name "Dimitra Giantsidi"
-description              : &description "PhD Student at the University of Edinburgh"
+description              : &description "PhD Student at The University of Edinburgh"
 url                      : https://dgiantsidi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ social:
 author:
   name             : "Dimitra Giantsidi"
   avatar           : "profile.png"
-  bio              : "PhD Student at the University of Edinburgh"
+  bio              : "PhD Student at The University of Edinburgh"
   location         : "Edinburgh, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
