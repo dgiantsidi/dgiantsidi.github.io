@@ -37,8 +37,8 @@ Konstantinos Nikas, Nikela Papadopoulou, Dimitra Giantsidi, Vasileios Karakostas
 
 Service
 ======
-[EuroSys 2021](https://2021.eurosys.org/): Web chair\\
-[WWW 2022](https://www2022.thewebconf.org/): PC
+[<strong>EuroSys 2021</strong>](https://2021.eurosys.org/): Web chair\\
+[<strong>WWW 2022</strong>](https://www2022.thewebconf.org/): PC
 
 
 
