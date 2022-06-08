@@ -8,8 +8,8 @@ author_profile: true
 Publications
 ======
 <strong>*Treaty: Secure Distributed Transactions.* IEEE/IFIP DSN'22.</strong>\\
-Dimitra Giantsidi, Maurice Bailleu, Natacha Crooks, Pramod Bhatotia.
-[CV](./../files/paper1.pdf)  #/cv/
+Dimitra Giantsidi, Maurice Bailleu, Natacha Crooks, Pramod Bhatotia.\\
+Here:[Paper](./../files/paper1.pdf)  #/cv/
 
 <strong>*Avocado: A Secure In-Memory Distributed Storage System.* USENIX ATC’21.</strong>\\
 Maurice Bailleu, Dimitra Giantsidi, Vasilis Gavrielatos, Le Quoc Do, Vijay Nagarajan, Pramod Bhatotia.
