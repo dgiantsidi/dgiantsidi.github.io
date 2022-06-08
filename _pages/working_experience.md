@@ -12,33 +12,37 @@ redirect_from:
 
 Working experience
 ======
-* <strong>*Sept 2021 - Dec 2021: Research Intern at Confidential Computing Group*</strong>\\
-    Microsoft Research Cambridge, UK
-* <strong>*June 2017 - July 2018: Software and Systems Engineer*</strong>\\
-    Intracom Telecom, Athens, Greece
+<strong>Research Intern at Confidential Computing Group</strong>\\
+    Microsoft Research Cambridge, UK, Sept. 2021 - Dec. 2021
+
+<strong>Software and Systems Engineer</strong>\\
+    Intracom Telecom, Athens, Greece, Jun. 2017 - Jul. 2018
 
 
 Service
 ======
-[<strong>EuroSys 2021</strong>](https://2021.eurosys.org/): Web chair\\
-[<strong>WWW 2022</strong>](https://www2022.thewebconf.org/): PC
+[<span style="color:black">[EuroSys 2021]</span>](https://2021.eurosys.org/): Web chair\\
+[<span style="color:black">[WWW 2022]</span>](https://www2022.thewebconf.org/): PC
 
 
 
 Teaching experience
 ======
-* Operating Systems, The University of Edinburgh, UK, 2019/20, 2020/21, 2021/22
-* Cloud Systems Engineering, TUM, Germany, 2021/22
-* Computer Systems Lab and Advanced Systems Programming in C/Rust courses, TUM, Germany, 2020/21
-* Extreme Computing, The University of Edinburgh, UK, 2019/20
-* Introduction to Programming and Programming Techniques courses, NTUA, Greece
+<strong>Operating Systems</strong>, The University of Edinburgh, UK, 2019/20, 2020/21, 2021/22\\
+<strong>Cloud Systems Engineering</strong>, TUM, Germany, 2021/22\\
+<strong>Computer Systems Lab</strong>, TUM, Germany, 2020/21\\
+<strong>Advanced Systems Programming in C/Rust</strong>, TUM, Germany, 2020/21\\
+<strong>Extreme Computing</strong>, The University of Edinburgh, UK, 2019/20\\
 
 
 
 Thesis supervision (students)
 ======
-* [*Fast and Secure Networking for Remote Direct Memory Access on Persistent Memory Leveraging Trusted Execution Environments*](https://dse.in.tum.de/wp-content/uploads/2022/01/BT_SaendigPhilip.pdf)\\
+<strong>Fast and Secure Networking for Remote Direct Memory Access
+        on Persistent Memory Leveraging Trusted Execution Environments</strong>\\
     Philip Sändig (BSc), TUM, Germany, 2020/21
+    [<span style="color:black">[Thesis]</span>](https://dse.in.tum.de/wp-content/uploads/2022/01/BT_SaendigPhilip.pdf)
 
-* [*Shared Log with Persistent Memory and eRPC*](https://dse.in.tum.de/wp-content/uploads/2022/01/BA_Vincent-Picking.pdf)\\
+<strong>Shared Log with Persistent Memory and eRPC</strong>\\
     Vincent Picking (BSc), TUM, Germany, 2020/21
+    [<span style="color:black">[Thesis]</span>](https://dse.in.tum.de/wp-content/uploads/2022/01/BA_Vincent-Picking.pdf)
