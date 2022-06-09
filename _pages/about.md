@@ -14,8 +14,6 @@ For my PhD, I am exploring ways to improve the security properties of widely-use
 
 Before joining ICSA, I graduated from School of Electrical and Computer Engineering, [<span style="color:black">NTUA</span>](https://www.ntua.gr/en/), Greece.
 
-#During my diploma thesis, I joined [<span style="color:black">CSLAB</span>](http://research.cslab.ece.ntua.gr/) where I worked with Dr. [<span style="color:black">Kostis Nikas</span>](http://www.cslab.ntua.gr/~knikas/), Dr. [<span style="color:black">Vasileios Karakostas</span>](http://www.cslab.ece.ntua.gr/~vkarakos/) and Prof. [<span style="color:black">Georgios Goumas</span>](http://www.cslab.ntua.gr/~goumas/). In parallel with the last year of my
-#studies I worked as a Research Software Engineer in the [<span style="color:black">NFV Accelerator Project at Intracom Telecom, Greece</span>](http://www.intracom-telecom.com/en/products/telco_software/sdn_nfv/sdn_nfv.htm).
 
 **Interests**: Distributed and dependable systems, transactional datastores, replication protocols, storage architectures, Intel SGX, operating systems, parallel architectures.
 
