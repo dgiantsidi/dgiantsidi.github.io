@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 --- 
 
-I am a PhD student at [<span style="color:black">The University of Edinburgh (UoE)</span>](https://www.ed.ac.uk/), member of the [<span style="color:black">Institute for Computing Systems Architecture (ICSA)</span>](http://web.inf.ed.ac.uk/icsa) and the [<span style="color:black">Chair of Decentralized Systems Engineering (DSE)</span>](https://dse.in.tum.de/people/), supervised by Prof. [<span style="color:black">Pramod Bhatotia</span>](http://homepages.inf.ed.ac.uk/pbhatoti/). 
+I am a PhD student at [<span style="color:black">the University of Edinburgh (UoE)</span>](https://www.ed.ac.uk/), member of the [<span style="color:black">Institute for Computing Systems Architecture (ICSA)</span>](http://web.inf.ed.ac.uk/icsa) and the [<span style="color:black">Chair of Decentralized Systems Engineering (DSE)</span>](https://dse.in.tum.de/team/), supervised by Prof. [<span style="color:black">Pramod Bhatotia</span>](http://homepages.inf.ed.ac.uk/pbhatoti/). 
 
 For my PhD, I am exploring ways to improve the security properties of widely-used software systems (e.g., distributed datastores and transactions, storage systems, replicated KV stores) leveraging the advances in trusted hardware. My research is sponsored by Microsoft Research and UK Rise.
 
