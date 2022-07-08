@@ -82,7 +82,7 @@ social:
 author:
   name             : "Dimitra Giantsidi"
   avatar           : "profile_2.jpg"
-  bio              : "PhD Student at The University of Edinburgh"
+  bio              : "PhD student at the University of Edinburgh"
   location         : "Edinburgh, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/dimitra-giantsidi-12165b89/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
