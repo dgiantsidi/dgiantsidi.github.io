@@ -13,7 +13,7 @@ redirect_from:
 Work Experience
 ======
 - <strong>Research Intern - Confidential Computing Group</strong>\\
-    <span style="color:gray">Microsoft Research Cambridge, UK, (advised by Alex Shamis), *Sept 2021 - Dec 2021*</span>
+    <span style="color:gray">Microsoft Research Cambridge, UK, (advised by [Alex Shamis](https://ashamis.github.io/)), *Sept 2021 - Dec 2021*</span>
 
 - <strong>Software and Systems Engineer - Cloud RnD</strong>\\
     <span style="color:gray">Intracom Telecom, Athens, Greece, *Jun 2017 - Jul 2018*</span>
