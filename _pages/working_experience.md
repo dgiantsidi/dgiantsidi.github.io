@@ -23,6 +23,10 @@ Work Experience
 
 Thesis Supervision
 ======
+- <strong>Redesigning the ordering layer of Hyperledger Fabric with TEEs</strong>\\
+    <span style="color:gray">Nicolas Strobl (BSc), TUM, Germany, *2021/22*</span>\\
+    [<span style="color:black">[Thesis]</span>](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2022/summer/docs/bsc_strobl_redesigning_the_ordering_layer_of_hyperledger_fabric_with_trusted_execution_environments.pdf)
+
 - <strong>Fast and Secure Networking for RDMA on PM Leveraging TEEs</strong>\\
     <span style="color:gray">Philip Sändig (BSc), TUM, Germany, *2020/21*</span>\\
     [<span style="color:black">[Thesis]</span>](https://dse.in.tum.de/wp-content/uploads/2022/01/BT_SaendigPhilip.pdf)
