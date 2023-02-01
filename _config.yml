@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dimitra Giantsidi"
+title                    : "Dimitra GIantsidi"
 title_separator          : "-"
-name                     : &name "Dimitra Giantsidi"
-description              : &description "PhD Student at The University of Edinburgh"
+name                     : &name ""
+description              : &description "PhD student at the University of Edinburgh"
 url                      : https://dgiantsidi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -308,4 +308,6 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+    envs: developmenta
+
+theme: jekyll-theme-merlot
