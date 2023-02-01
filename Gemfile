@@ -8,6 +8,11 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+#
+gem 'nokogiri'
+gem 'rack', '~> 2.0.1'
+gem 'rspec'
+gem 'webrick'
 
 gem "github-pages", group: :jekyll_plugins
 
