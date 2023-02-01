@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-Please find my CV [here](./resume.pdf).
+Here's an up-to-date [<span style="color:black">CV</span>](./resume.pdf).
