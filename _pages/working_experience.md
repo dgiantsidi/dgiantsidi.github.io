@@ -40,10 +40,10 @@ Thesis Supervision
 Teaching Experience
 ======
 - <strong>Operating Systems</strong>\\
-    <span style="color:gray">The University of Edinburgh, UK, *2019/20, 2020/21, 2021/22*</span>
+    <span style="color:gray">The University of Edinburgh, UK, *2019/20, 2020/21, 2021/22, 2022/23*</span>
 
 - <strong>Cloud Lab</strong>\\
-    <span style="color:gray">TUM, Germany, *2021/22*</span>
+    <span style="color:gray">TUM, Germany, *2021/22, 2022/23*</span>
 
 - <strong>Computer Systems Lab</strong>\\
     <span style="color:gray">TUM, Germany, *2020/21*</span>
@@ -52,7 +52,7 @@ Teaching Experience
     <span style="color:gray">TUM, Germany, *2020/21*</span>
 
 - <strong>Extreme Computing</strong>\\
-    <span style="color:gray">The University of Edinburgh, UK, *2019/20*</span>
+    <span style="color:gray">The University of Edinburgh, UK, *2019/20, 2022/23*</span>
 <br/><br/>
 
 Service and Talks
