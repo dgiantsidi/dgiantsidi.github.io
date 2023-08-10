@@ -7,11 +7,11 @@ author_profile: true
 
 Publications
 ======
+
 <strong>FlexLog: A Shared Log for Stateful Serverless Computing</strong>\\
 Dimitra Giantsidi, Manos Giortamis, Nathaniel Tornow, Florin Dinu, Pramod Bhatotia.\\
 <span style="color:gray">HPDC'23</span>\\
 [<span style="color:black">[Paper]</span>](https://dse.in.tum.de/wp-content/uploads/2023/05/FlexLog_HPDC23.pdf) [<span style="color:black">[Presentation]</span>](./files/FlexLog-HPDC23-presentation.pdf)
-
 
 <strong>Treaty: Secure Distributed Transactions</strong>\\
 Dimitra Giantsidi, Maurice Bailleu, Natacha Crooks, Pramod Bhatotia.\\
