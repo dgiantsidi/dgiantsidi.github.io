@@ -17,5 +17,5 @@ Before joining ICSA, I graduated from School of Electrical and Computer Engineer
 
 **Interests**: Distributed and dependable systems, transactional datastores, replication protocols, storage architectures, Intel SGX, operating systems, parallel architectures.
 
-**BSc/MSc students**: You can browse [<span style="color:black">here</span>](./thesis_topics.pdf) for a list of potential thesis topics.
+~~**BSc/MSc students**: You can browse [<span style="color:black">here</span>](./thesis_topics.pdf) for a list of potential thesis topics.~~
 
