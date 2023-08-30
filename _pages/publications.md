@@ -8,6 +8,11 @@ author_profile: true
 Publications
 ======
 
+<strong>Anchor: Secure Persistent Memory Architecture</strong>\\
+Dimitris Stravakakis, Dimitra Giantsidi, Maurice Bailleu, Philip Saendig, Shady Issa, Pramod Bhatotia.\\
+<span style="color:gray">SIGMOD'24</span>\\
+[<span style="color:black">[Paper]</span>]() [<span style="color:black">[Presentation]</span>]()
+
 <strong>FlexLog: A Shared Log for Stateful Serverless Computing</strong>\\
 Dimitra Giantsidi, Manos Giortamis, Nathaniel Tornow, Florin Dinu, Pramod Bhatotia.\\
 <span style="color:gray">HPDC'23</span>\\
