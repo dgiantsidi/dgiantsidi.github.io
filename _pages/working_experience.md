@@ -12,6 +12,9 @@ redirect_from:
 
 Work Experience
 ======
+<strong>Research Assistant - Institute of Computer Systems and Architecture</strong>\\
+    <span style="color:gray">University of Edinburgh, UK, *May 2023 - present*</span>
+
 <strong>Research Intern - Confidential Computing Group</strong>\\
     <span style="color:gray">Microsoft Research Cambridge, UK, (advised by [<span style="color:black">Alex Shamis</span>](https://ashamis.github.io/)), *Sept 2021 - Dec 2021*</span>
 
