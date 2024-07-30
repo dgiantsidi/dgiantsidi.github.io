@@ -48,7 +48,7 @@ Teaching Experience
 
 Service and Talks
 ======
-<strong>Web chair</strong> ([<span style="color:black">EuroSys'21</span>](https://2021.eurosys.org/)), <strong>PC</strong> (<span style="color:black">WWW'22</span>, <span style="color:black">EuroSys'23</span>,  <span style="color:black">SoCC'23</span>)
+<strong>Web chair</strong> ([<span style="color:black">EuroSys'21</span>](https://2021.eurosys.org/)), <strong>PC</strong> (<span style="color:black">WWW'22</span>, <span style="color:black">EuroSys'23</span>,  <span style="color:black">SoCC'23</span>, <span style="color:black">SysTex'24</span>, <span style="color:black">EuroPar'24</span>, <span style="color:black">SoCC'24</span>, <span style="color:black">Fast'25</span>)
 
 <strong>HPDC'23</strong>, <strong>DSN'22</strong>, <strong>Third Annual SGX Community Day 2022</strong> ([<span style="color:black">Agenta and Talks</span>](https://community.intel.com/t5/Blogs/Tech-Innovation/Data-Center/Third-SGX-Community-Day/post/1393177#.YquzBaYuyqI.linkedin)), <strong>USENIX ATC'21</strong> (virtual)
 <br/><br/>
