@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[<span style="color:black">Resume</span>](./dGiantsidi_cv.pdf) and [<span style="color:black">CV</span>](./resume.pdf)
+[<span style="color:black">Resume</span>]() and [<span style="color:black">CV</span>]()
