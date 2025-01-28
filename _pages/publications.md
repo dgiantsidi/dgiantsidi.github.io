@@ -9,7 +9,7 @@ Publications
 ======
 
 <strong>TNIC: A Trusted NIC Architecture</strong>\\
-imitra Giantsidi, Julian Pritzi, Felix Gust, Antonios Katsarakis, Atsushi Koshiba, Pramod Bhatotia.\\
+Dimitra Giantsidi, Julian Pritzi, Felix Gust, Antonios Katsarakis, Atsushi Koshiba, Pramod Bhatotia.\\
 <span style="color:gray">ASPLOS'25</span>\\
 [<span style="color:black">[Paper]</span>]() [<span style="color:black">[Presentation]</span>]()
 
