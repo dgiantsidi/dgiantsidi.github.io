@@ -11,7 +11,7 @@ Publications
 <strong>TNIC: A Trusted NIC Architecture</strong>\\
 Dimitra Giantsidi, Julian Pritzi, Felix Gust, Antonios Katsarakis, Atsushi Koshiba, Pramod Bhatotia.\\
 <span style="color:gray">ASPLOS'25</span>\\
-[<span style="color:black">[Paper]</span>]() [<span style="color:black">[Presentation]</span>]()
+[<span style="color:black">[Paper]</span>](https://dse.in.tum.de/wp-content/uploads/2025/02/TNIC-ASPLOS-2025.pdf) [<span style="color:black">[Presentation]</span>]()
 
 <strong>Anchor: Secure Persistent Memory Architecture</strong>\\
 Dimitris Stravakakis, Dimitra Giantsidi, Maurice Bailleu, Philip Saendig, Shady Issa, Pramod Bhatotia.\\
