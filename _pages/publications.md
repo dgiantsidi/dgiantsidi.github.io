@@ -11,7 +11,7 @@ Publications
 <strong>Recipe: Hardware-Accelerated Replication Protocols</strong>\\
 <ins>Dimitra Giantsidi</ins>, Emmanouil Giortamis, Julian Pritzi, Maurice Bailleu, Manos Kapritsos, Pramod Bhatotia.\\
 <span style="color:gray">Arxiv 2025</span>\\
-[<span style="color:black">[Paper]</span>](https://arxiv.org/pdf/2502.09251) [<span style="color:black">[Presentation]</span>]()
+[<span style="color:black">[Paper]</span>](https://arxiv.org/pdf/2502.09251)
 
 <strong>TNIC: A Trusted NIC Architecture</strong>\\
 <ins>Dimitra Giantsidi</ins>, Julian Pritzi, Felix Gust, Antonios Katsarakis, Atsushi Koshiba, Pramod Bhatotia.\\
