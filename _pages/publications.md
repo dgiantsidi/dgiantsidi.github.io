@@ -11,6 +11,7 @@ Publications
 <strong>Recipe: Hardware-Accelerated Replication Protocols</strong>\\
 <ins>Dimitra Giantsidi</ins>, Emmanouil Giortamis, Julian Pritzi, Maurice Bailleu, Manos Kapritsos, Pramod Bhatotia.\\
 <span style="color:gray">Middleware 2025</span>\\
+[<span style="color:red">Best paper award</span>](https://middleware-conf.github.io/2025/program/awards/)\\
 [<span style="color:black">[Paper]</span>]() [<span style="color:black">[Presentation]</span>]()
 [<span style="color:black">[Full-version]</span>](https://arxiv.org/pdf/2502.09251)
 
