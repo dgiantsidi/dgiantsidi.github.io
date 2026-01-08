@@ -37,6 +37,7 @@ Service and Talks
 - <span style="color:black">SysTex'24</span>, <span style="color:black">EuroPar'24</span>, <span style="color:black">SoCC'24</span>, 
 - <span style="color:black">FAST'25</span>, <span style="color:black">Middleware'25</span>, <span style="color:black">SysTex'25</span>, <span style="color:black">Systor'25</span>, <span style="color:black">APSys'25</span>, <span style="color:black">SoCC'25</span>,
 - <span style="color:black">Middleware'26</span>
+- <span style="color:black">ACM REP'26</span>
 - <span style="color:black">FAST'27</span>, <span style="color:black">EuroSys'27</span>
 
  <strong>Web chair</strong> ([<span style="color:black">EuroSys'21</span>](https://2021.eurosys.org/))
