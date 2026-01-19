@@ -11,7 +11,7 @@ Publications
 <strong>Recipe: Hardware-Accelerated Replication Protocols</strong>\\
 <ins>Dimitra Giantsidi</ins>, Emmanouil Giortamis, Julian Pritzi, Maurice Bailleu, Manos Kapritsos, Pramod Bhatotia.\\
 <span style="color:gray">Middleware 2025</span>\\
-[<span style="color:red">[Best paper award]</span>](https://middleware-conf.github.io/2025/program/awards/) [<span style="color:red">[Manos, me and the award]</span>](./files/recipe-award.jpeg)\\
+[<span style="color:red">[Best paper award 🏆]</span>](https://middleware-conf.github.io/2025/program/awards/) [<span style="color:red">[Manos, me and the award]</span>](./files/recipe-award.jpeg)\\
 [<span style="color:black">[Paper]</span>](./files/3721462.3770763.pdf) [<span style="color:black">[Presentation]</span>](./files/Recipe-Middleware25.pdf)
 [<span style="color:black">[Full-version]</span>](https://arxiv.org/pdf/2502.09251)
 
@@ -33,7 +33,7 @@ Dimitris Stravakakis, <ins>Dimitra Giantsidi</ins>, Maurice Bailleu, Philip Saen
 <strong>Treaty: Secure Distributed Transactions</strong>\\
 <ins>Dimitra Giantsidi</ins>, Maurice Bailleu, Natacha Crooks, Pramod Bhatotia.\\
 <span style="color:gray">IEEE/IFIP DSN 2022</span>\\
-[<span style="color:red">Best paper finalist</span>](https://dsn2022.github.io/awards.html)\\
+[<span style="color:red">Best paper finalist 🏆</span>](https://dsn2022.github.io/awards.html)\\
 [<span style="color:black">[Paper]</span>](https://dse.in.tum.de/wp-content/uploads/2022/04/Treaty_PDFExpress.pdf) [<span style="color:black">[Presentation]</span>](./files/TreatyDSN22.pdf) [<span style="color:black">[Video]</span>](https://www.youtube.com/watch?v=NBnx39tvdhY)
 
 <strong>Avocado: A Secure In-Memory Distributed Storage System</strong>\\
