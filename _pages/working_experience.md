@@ -14,30 +14,27 @@ Work Experience
 ======
 <strong>Researcher - Security and Privacy Group, Azure Research (Microsoft)</strong>\\
     <span style="color:gray">Cambridge, UK, *Oct 2024 - present*</span>
-    <br/>Research and implementation of integrity-preserving and reliable storage systems.
+    <br/>Integrity-preserving and reliable storage systems.
     <br/><br/>
     
 <strong>Research Intern - Cloud and Infrastructure Security Group, Microsoft Research</strong>\\
     <span style="color:gray">Redmond, WA, USA, *May 2024 - Aug 2024*</span>
-    <br/>Designed and implemented a record-replay framework for confidential and integrity-preserving execution of large language models.
+    <br/>Confidential LLMs execution.
     <br/><br/>
     
-<strong>Research Software Engineer - Institute of Computer Systems and Architecture</strong>\\
-    <span style="color:gray">University of Edinburgh, UK, *Jun 2023 - Apr 2024*</span>
-    <br/>Invented a trusted NIC architecture on FPGA-based SmartNICs for cloud systems.
-    <br/>Demonstrated improved performance and robustness over state-of-the-art cloud networking systems.
+<strong>Research Software Engineer - University of Edinburgh</strong>\\
+    <span style="color:gray">Edinburgh, UK, *Jun 2023 - Apr 2024*</span>
+    <br/>Trusted NIC architectures for cloud systems.
     <br/><br/>
 
-<strong>Research Intern - Confidential Computing Group</strong>\\
-    <span style="color:gray">Microsoft Research Cambridge, UK, *Sept 2021 - Dec 2021*</span>
-    <br/>Invented a high-performance key-value store resilient to privileged attacks.
-    <br/>Achieved high throughput on production-like workloads in Microsoft's private datacenter.
+<strong>Research Intern - Confidential Computing Group, Microsoft Research</strong>\\
+    <span style="color:gray">Cambridge, UK, *Sept 2021 - Dec 2021*</span>
+    <br/>Resilient Key-Value stores for privileged attackers.
     <br/><br/>
 
-<strong>Software Engineer</strong>\\
-    <span style="color:gray">Intracom Telecom, Athens, Greece, *Jul 2017 - Jul 2018*</span>
-    <br/>Designed and implemented a resource-aware infrastructure for cloud-hosted datacenters.
-    <br/>Reduced energy and CPU consumption while maintaining client SLA.
+<strong>Software Engineer - Intracom Telecom</strong>\\
+    <span style="color:gray">Athens, Greece, *Jul 2017 - Jul 2018*</span>
+    <br/>Resource-aware processes scheduler for cloud-hosted datacenters.
 <br/><br/>
 
 
