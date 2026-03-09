@@ -12,20 +12,32 @@ redirect_from:
 
 Work Experience
 ======
-<strong>Researcher - Security and Privacy Group</strong>\\
-    <span style="color:gray">Azure Research Cambridge, UK, *Oct 2024 - now*</span>
+<strong>Researcher - Security and Privacy Group, Azure Research (Microsoft)</strong>\\
+    <span style="color:gray">Cambridge, UK, *Oct 2024 - present*</span>
+    <br/>Research and implementation of integrity-preserving and reliable storage systems.
+    <br/><br/>
     
-<strong>Research Intern - Security Research Group</strong>\\
-    <span style="color:gray">Microsoft Research Redmond, WA, USA, (advised by [<span style="color:black">Sangho Lee</span>](https://www.microsoft.com/en-us/research/people/sanghle/)), *May 2024 - Aug 2024*</span>
+<strong>Research Intern - Cloud and Infrastructure Security Group, Microsoft Research</strong>\\
+    <span style="color:gray">Redmond, WA, USA, *May 2024 - Aug 2024*</span>
+    <br/>Designed and implemented a record-replay framework for confidential and integrity-preserving execution of large language models.
+    <br/><br/>
     
 <strong>Research Software Engineer - Institute of Computer Systems and Architecture</strong>\\
-    <span style="color:gray">University of Edinburgh, UK, *May 2022 - May 2024*</span>
+    <span style="color:gray">University of Edinburgh, UK, *Jun 2023 - Apr 2024*</span>
+    <br/>Invented a trusted NIC architecture on FPGA-based SmartNICs for cloud systems.
+    <br/>Demonstrated improved performance and robustness over state-of-the-art cloud networking systems.
+    <br/><br/>
 
 <strong>Research Intern - Confidential Computing Group</strong>\\
-    <span style="color:gray">Microsoft Research Cambridge, UK, (advised by [<span style="color:black">Alex Shamis</span>](https://ashamis.github.io/)), *Sept 2021 - Dec 2021*</span>
+    <span style="color:gray">Microsoft Research Cambridge, UK, *Sept 2021 - Dec 2021*</span>
+    <br/>Invented a high-performance key-value store resilient to privileged attacks.
+    <br/>Achieved high throughput on production-like workloads in Microsoft's private datacenter.
+    <br/><br/>
 
-<strong>Software and Systems Engineer - Cloud RnD</strong>\\
-    <span style="color:gray">Intracom Telecom, Athens, Greece, *Jan 2016 - Jul 2018*</span>
+<strong>Software Engineer</strong>\\
+    <span style="color:gray">Intracom Telecom, Athens, Greece, *Jul 2017 - Jul 2018*</span>
+    <br/>Designed and implemented a resource-aware infrastructure for cloud-hosted datacenters.
+    <br/>Reduced energy and CPU consumption while maintaining client SLA.
 <br/><br/>
 
 
