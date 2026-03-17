@@ -52,7 +52,7 @@ Service and Talks
 
  <strong>Web chair</strong> ([<span style="color:black">EuroSys'21</span>](https://2021.eurosys.org/))
 
-Talks: <strong>HPDC'23</strong>, <strong>DSN'22</strong>, <strong>Third Annual SGX Community Day 2022</strong> ([<span style="color:black">Agenta and Talks</span>](https://community.intel.com/t5/Blogs/Tech-Innovation/Data-Center/Third-SGX-Community-Day/post/1393177#.YquzBaYuyqI.linkedin)), <strong>USENIX ATC'21</strong> (virtual)
+Talks: <strong>ASPLOS'25</strong>, <strong>HPDC'23</strong>, <strong>DSN'22</strong>, <strong>Third Annual SGX Community Day 2022</strong> ([<span style="color:black">Agenta and Talks</span>](https://community.intel.com/t5/Blogs/Tech-Innovation/Data-Center/Third-SGX-Community-Day/post/1393177#.YquzBaYuyqI.linkedin)), <strong>USENIX ATC'21</strong> (virtual)
 <br/><br/>
 
 
