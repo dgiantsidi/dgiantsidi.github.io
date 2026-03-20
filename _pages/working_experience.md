@@ -12,7 +12,7 @@ redirect_from:
 
 Work Experience
 ======
-<strong>Researcher - Security and Privacy Group, Azure Research (Microsoft)</strong>\\
+<strong>Researcher - Security and Privacy Group, Azure Research, Microsoft</strong>\\
     <span style="color:gray">Cambridge, UK, *Oct 2024 - present*</span>
     <br/>Integrity-preserving and reliable storage systems.
     <br/><br/>
@@ -41,12 +41,12 @@ Work Experience
 Service and Talks
 ======
 <strong>PC</strong>:
-- <span style="color:black">2022</span>:WWW
-- <span style="color:black">2023</span>:EuroSys, SoCC
-- <span style="color:black">2024</span>:SoCC, SysTex, EuroPar
-- <span style="color:black">2025</span>:USENIX FAST, SoCC, Middleware, Systor, SysTex, APSys
-- <span style="color:black">2026</span>:Middleware, SysTex, EuroPar, ACM REP, ACM HotStorage
-- <span style="color:black">2027</span>:USENIX FAST, EuroSys
+- <strong>2022</strong>:WWW
+- <strong>2023</strong>:EuroSys, SoCC
+- <strong>2024</strong>:SoCC, SysTex, EuroPar
+- <strong>2025</strong>:USENIX FAST, SoCC, Middleware, Systor, SysTex, APSys
+- <strong>2026</strong>:Middleware, SysTex, EuroPar, ACM REP, ACM HotStorage
+- <strong>2027</strong>:USENIX FAST, EuroSys
 
  <strong>Student Mentorship Chair</strong> ([<span style="color:black">SOSP'26</span>](https://sigops.org/s/conferences/sosp/2026/organizers.html))
 
