@@ -41,12 +41,12 @@ Work Experience
 Service and Talks
 ======
 <strong>PC</strong>:
-- <span style="color:black">WWW'22</span> 
-- <span style="color:black">EuroSys'23</span>, <span style="color:black">SoCC'23</span> 
-- <span style="color:black">SysTex'24</span>, <span style="color:black">EuroPar'24</span>, <span style="color:black">SoCC'24</span>, 
-- <span style="color:black">FAST'25</span>, <span style="color:black">Middleware'25</span>, <span style="color:black">SysTex'25</span>, <span style="color:black">Systor'25</span>, <span style="color:black">APSys'25</span>, <span style="color:black">SoCC'25</span>,
-- <span style="color:black">Middleware'26</span>, <span style="color:black">SysTex'26</span>, <span style="color:black">ACM REP'26</span>, <span style="color:black">ACM HotStorage 2026</span>, <span style="color:black">EuroPar'26</span>
-- <span style="color:black">FAST'27</span>, <span style="color:black">EuroSys'27</span>
+- <span style="color:black">2022</span>:WWW
+- <span style="color:black">2023</span>:EuroSys, SoCC
+- <span style="color:black">2024</span>:SoCC, SysTex, EuroPar
+- <span style="color:black">2025</span>:USENIX FAST, SoCC, Middleware, Systor, SysTex, APSys
+- <span style="color:black">2026</span>:Middleware, SysTex, EuroPar, ACM REP, ACM HotStorage
+- <span style="color:black">2027</span>:USENIX FAST, EuroSys
 
  <strong>Student Mentorship Chair</strong> ([<span style="color:black">SOSP'26</span>](https://sigops.org/s/conferences/sosp/2026/organizers.html))
 
