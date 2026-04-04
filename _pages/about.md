@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 --- 
 
-I obsess over one question: how do you build distributed storage systems that don't break, don't leak, and don't slow down?
+*How do you build distributed storage systems that don't break, don't leak, and don't slow down?*
 
 I am a Researcher at [<span style="color:black">Azure Research (Security and Privacy Group)</span>](https://www.microsoft.com/en-us/research/group/azure-security-privacy/), where I work on the next-generation secure storage stacks and filesystems. I leverage the hardware advancements in confidential computing (e.g., TEEs, CVMs) and networking (direct I/O, SmartNICs, DPUs) to build robust, high-performance systems — from transactional databases and replicated KV stores to full filesystems.
 
