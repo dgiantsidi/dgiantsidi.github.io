@@ -8,6 +8,12 @@ author_profile: true
 Publications
 ======
 
+<strong>Securing Filesystems for Confidential Computing</strong>\\
+<ins>Dimitra Giantsidi</ins>, Antoine Delignat-Lavaud, Cédric Fournet, Jinnan Guo, Heidi Howard, Tianjiao Huang, Kapil Vaswani, Stavros Volos.\\
+<span style="color:gray">arxiv</span>\\
+[<span style="color:black">[Full-version]</span>](https://arxiv.org/pdf/2608.19924)
+
+
 <strong>Recipe: Hardware-Accelerated Replication Protocols</strong>\\
 <ins>Dimitra Giantsidi</ins>, Emmanouil Giortamis, Julian Pritzi, Maurice Bailleu, Manos Kapritsos, Pramod Bhatotia.\\
 <span style="color:gray">Middleware 2025</span>\\
