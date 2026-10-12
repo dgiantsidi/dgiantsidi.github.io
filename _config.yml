@@ -82,8 +82,8 @@ social:
 author:
   name             : "Dimitra Giantsidi"
   avatar           : "profile_2.jpg"
-  bio              : "Researcher at Azure Research (Microsoft)"
-  location         : "Cambridge, UK"
+  bio              :  "Software Engineer at Databricks" #"Researcher at Azure Research (Microsoft)"
+  location         : "London, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
